@@ -26,3 +26,14 @@ You can check out the [create-t3-app GitHub repository](https://github.com/t3-os
 ## How do I deploy this?
 
 Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+
+
+# Things that have completed in front-end part.
+
+- created Landing , login , signup and registeration page.
+
+# Issues in front-end:
+
+- Fix the resend otp functionality , because it's not working.
+- Need to include the images in landing , login , signup pages.
+
